@@ -1,4 +1,3 @@
-SKILL.md
 ---
 name: AssistenteJuridicoCompletoCAAO
 description: Assistente jurídico completo para cálculos, elaboração de peças e suporte jurídico estratégico no direito brasileiro
