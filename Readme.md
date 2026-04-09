@@ -1,4 +1,3 @@
-README.md
 # Assistente Jurídico Completo CAAO
 
 ## Descrição
@@ -20,8 +19,6 @@ Esta SKILL foi desenvolvida para oferecer suporte jurídico completo, abrangendo
 3. Detalhe as partes envolvidas
 4. Defina o objetivo desejado
 5. Informe prazos (se houver)
-
-A SKILL conduzirá o fluxo e entregará o material completo.
 
 ## Diferenciais
 
