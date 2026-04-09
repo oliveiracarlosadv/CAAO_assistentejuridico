@@ -1,34 +1,52 @@
-# Super Assistente 4.0
-
-Skill jurídica avançada para uso no Claude.
+README.md
+# Assistente Jurídico Completo CAAO
 
 ## Descrição
-O **Super Assistente 4.0** foi criado por **Carlos A. A. Oliveira (OAB/PA 33996)** para oferecer suporte jurídico técnico, seguro e fundamentado.  
-Ele auxilia na elaboração de peças, pesquisas jurisprudenciais reais, análises jurídicas e explicações doutrinárias.
+
+Esta SKILL foi desenvolvida para oferecer suporte jurídico completo, abrangendo desde cálculos até a elaboração de peças processuais, com base no Direito Brasileiro.
 
 ## Funcionalidades
-- Redação de petições, recursos, contratos e pareceres  
-- Análise de casos concretos  
-- Pesquisa jurisprudencial real (sem invenções)  
-- Explicações de conceitos jurídicos  
-- Sugestão de estratégias processuais  
-- Estruturação de argumentos jurídicos  
 
-## Limitações
-- Não substitui advogado  
-- Não inventa jurisprudência ou doutrina  
-- Não fornece previsões judiciais  
-- Não cria fatos jurídicos inexistentes  
+- Elaboração de peças jurídicas completas
+- Cálculos trabalhistas, cíveis e previdenciários
+- Análise estratégica de processos
+- Revisão técnica de documentos
+- Produção de conteúdos jurídicos
 
-## Como usar
-Basta enviar sua dúvida ou solicitação jurídica.  
-Exemplos:
-- “Elabore uma contestação baseada em…”  
-- “Pesquise jurisprudência real sobre dano moral por negativação indevida.”  
-- “Explique o conceito de prescrição intercorrente.”  
+## Como utilizar
+
+1. Informe o tipo de demanda jurídica
+2. Especifique a área do direito
+3. Detalhe as partes envolvidas
+4. Defina o objetivo desejado
+5. Informe prazos (se houver)
+
+A SKILL conduzirá o fluxo e entregará o material completo.
+
+## Diferenciais
+
+- Alto nível técnico
+- Linguagem profissional
+- Estrutura padronizada
+- Fundamentação jurídica consistente
+
+## Padrão de Saída
+
+Todos os documentos seguem:
+
+Cabeçalho com:
+- Nome do documento
+- Nome da SKILL
+- Data
+
+Rodapé com:
+- Nome da SKILL
+- @oliveiracarlosadv
 
 ## Autor
-**Carlos A. A. Oliveira**  
+
+Carlos A. A. Oliveira  
 OAB/PA 33996  
-Redes sociais: @oliveiraCarlosADV  
-Telefone: 91 9 9827-7601
+Contato: (91) 9 9827-7601  
+Site: http://www.oliveiracarlos.adv.br  
+Instagram: @oliveiraCarlosADV
